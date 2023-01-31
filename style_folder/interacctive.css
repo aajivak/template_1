@@ -1,0 +1,26 @@
+/* .main_nav_list:hover{
+    border-bottom: solid;
+} */
+
+#a_1:hover{
+    border-bottom: solid;
+}
+#a_2:hover{
+    border-bottom: solid;
+}
+#a_3:hover{
+    border-bottom: solid;
+}
+#a_4:hover{
+    border-bottom: solid;
+}
+#a_5:hover{
+    border-bottom: solid;
+}
+#a_btn1:hover{
+    font-size: 22px;
+    color: aqua;
+}
+#a_btn2:hover{
+    border-bottom: solid;
+}

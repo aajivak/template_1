@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300;400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* body{
+    background-color: black;
+} */
+
+#header_d{
+    text-align: end;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin-left: 1.5vw;
+    margin-right: 1.5vw;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Crimson Pro', serif;
+    font-size: 17px;
+}
+
+.btn_signup{
+    margin-right: -7px;
+    margin-left: 10px;
+}
+.btn_login{
+    margin-right: 3rem;
+    margin-left: 10px;
+}
+
+.main_nav_list{
+    margin-top: 1rem;
+}
+
+.btn_login_signup{
+    height: 2rem;
+    width: 3.5rem;
+    font-size: 15px;
+    font-family: 'Crimson Pro', serif;
+}
+
+.head_left_container{
+    color: black;
+    margin-left: 10vw;
+    font-family: 'Crimson Pro', serif;
+    font-size: 40px;
+    margin-right: 40vw;
+}
